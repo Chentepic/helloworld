@@ -1,7 +1,7 @@
 void main()
 {
     int a = 8;
-    int b = 100;
+    int b = 50;
 
     int c = 2;
     a = c;
