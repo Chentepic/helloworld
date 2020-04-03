@@ -1,6 +1,6 @@
 void main()
 {
-    int a = 5;
+    int a = 8;
     int b = 100;
 
     int c = 2;
